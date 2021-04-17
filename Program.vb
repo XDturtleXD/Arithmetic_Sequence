@@ -5,7 +5,7 @@ Module Program
     Dim brr() As Integer
     Public n As UInteger = 0
     Dim sn As UInteger
-    Sub Main()
+    Sub Main1()
         Dim obj As Object
 
         Console.WriteLine("         Welcome!，幹付我錢，打這個很麻煩。")
